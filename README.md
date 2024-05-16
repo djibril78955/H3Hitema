@@ -1,2 +1,2 @@
 # H3Hitema
-Hitema Project
+Hitema Projects
