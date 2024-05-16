@@ -26,3 +26,4 @@ jobs:
 
       - name: Start Backend Server
         run: uvicorn app.main:app --reload & 
+        
