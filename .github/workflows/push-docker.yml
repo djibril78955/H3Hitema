@@ -32,4 +32,4 @@ jobs:
           context: .
           platforms: linux/arm/v7
           push: true
-          tags: djibril78955/python-ci:latest
+          tags: dji3ril/python-ci:latest
